@@ -15,8 +15,8 @@ This file contains the main logic of the project. It includes:
 - Functions and methods to achieve the project's goals.
 
 #### Key Features:
-- [Feature 1]: EDA analysis
-- [Feature 2]: Statistical analysis
+- Feature 1: EDA analysis
+- Feature 2: Statistical analysis
 
 
 
